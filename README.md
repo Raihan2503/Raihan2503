@@ -7,6 +7,8 @@
 <!---
 Hello My Name is Raihan Alfaridzi Kustiawan this is a first my project create a komikstore
 using javascript
+--->
+
 // Variabel Komik
 let komik = ["Naruto", "One Punch Man"]
 let hargaBiasa = [125000, 150000]
@@ -67,5 +69,3 @@ function detailKomik(judulKomik) {
   }
   return "Judul Komik tidak ada!"
 }
-
---->
