@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Raihan2503
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Halo perkenalkan nama saya Raihan Alfaridzi Kustiawan
+-  This is My Account Github
+-  My Skills : 
+-  HTML
+-  CSS
+-  Javascript
+-  PHP
 
-<!---
-Hello My Name is Raihan Alfaridzi Kustiawan this is a first my project create a komikstore
-using javascript
---->
-
-This is a first my project with javascript
+Nothing is Imposibble in the World
